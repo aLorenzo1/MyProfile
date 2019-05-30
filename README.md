@@ -32,5 +32,5 @@ bin/startup.sh (linux) or bin/startup.bat (windows)
 ```
 You can now test the webapp at 
 ```
-http:\\localhost:8080\MyProfile
+http:\\localhost:8080\myprofile
 
