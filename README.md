@@ -5,11 +5,7 @@
   - Eclipse IDE 
 
 ### Installation and Configuration
-Create war file
-```
-jar -cvf MyProfile.war <pathMyProfileFolder>
-```
-Move MyProfile.war in apache-tomcat-9.0.16/webapps
+Copy target/myprofile.war in apache-tomcat-9.0.16/webapps
 
 ### Execution
 Run Apache Tomcat Server
