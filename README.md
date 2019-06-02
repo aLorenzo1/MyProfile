@@ -28,7 +28,7 @@ copy target/Libra.war {apache-tomcat_HOME}/webapps
 ### Execution
 Run Apache Tomcat Server
 ```
-bin/startup.sh (linux) or bin/startup.bat (windows)
+{apache-tomcat_HOME}/bin/startup.sh (linux) or {apache-tomcat_HOME}/bin/startup.bat (windows)
 ```
 You can now test the webapp at 
 ```
